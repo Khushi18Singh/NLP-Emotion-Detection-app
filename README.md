@@ -9,7 +9,7 @@ A multi-class NLP web app that detects emotion in text, voice, or documents usin
 
 **Emotions:** Sadness 😔 · Anger 😡 · Love ❤️ · Surprise 😲 · Fear 😨 · Joy 😊
 
-🔗 **Live Demo:** _(add your Streamlit deployment link here once deployed)_
+🔗 **Live Demo:** _(Streamlit deployment link here once deployed)_
 
 ---
 
@@ -96,7 +96,7 @@ A multi-class NLP web app that detects emotion in text, voice, or documents usin
 
 ## 🖼️ Application Preview
 
-(Add screenshot: ![App Screenshot](screenshot.png))
+(Application Preview: ![App Screenshot](screenshot.png))
 
 ---
 
