@@ -96,7 +96,7 @@ A multi-class NLP web app that detects emotion in text, voice, or documents usin
 
 ## 🖼️ Application Preview
 
-(Add screenshot: `![App Screenshot](screenshot.png)`)
+(Add screenshot: ![App Screenshot](screenshot.png))
 
 ---
 
