@@ -127,7 +127,7 @@ A multi-class NLP web app that detects emotion in text, voice, or documents usin
 ## 🚀 Setup
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/Khushi18Singh/NLP-Emotion_Detection.git
 cd <repo-name>
 python -m venv venv
 venv\Scripts\activate      # Windows
