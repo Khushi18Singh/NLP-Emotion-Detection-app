@@ -1,0 +1,10 @@
+streamlit
+scikit-learn
+nltk
+pandas
+wordcloud
+matplotlib
+seaborn
+plotly
+SpeechRecognition
+pypdf
