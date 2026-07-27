@@ -9,7 +9,8 @@ A multi-class NLP web app that detects emotion in text, voice, or documents usin
 
 **Emotions:** Sadness 😔 · Anger 😡 · Love ❤️ · Surprise 😲 · Fear 😨 · Joy 😊
 
-🔗 **Live Demo: https://nlp-emotion-detection-app-by-khushi.streamlit.app/
+
+🔗 Live Demo: https://nlp-emotion-detection-app-by-khushi.streamlit.app/
 
 ---
 
